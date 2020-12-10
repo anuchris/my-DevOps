@@ -3,3 +3,5 @@ html
 xml
 java
 txt
+version control
+continuous intergretion

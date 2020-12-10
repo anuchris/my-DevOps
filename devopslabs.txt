@@ -3,3 +3,5 @@ cvs
 version control
 ci
 di
+force
+teamtry
